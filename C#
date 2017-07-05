@@ -1,7 +1,0 @@
-Creating services by Command promt
-
-1) Create: SC CREATE shortservicename binPath= "c:\nitin.sharma\job.exe" DisplayName= "ServicesName" start= auto
-2) STOP: SC STOP shortservicename
-3) DELETE: SC DELETE shortservicename
-
-Note: You need to run the command prompt as an administrator
